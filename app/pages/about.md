@@ -1,5 +1,5 @@
 # Sobre
-O sistema proposto tem como primícias corroborar com a educação e formação do conhecimento do cidadão, através da leitura de livros físicos, visando lidar com a desigualdade social, possibilitando acesso a todos, por meio de doação ou empréstimo, oriundo de um cooperador possuidor de livros. O projeto busca, através do software, criar um site por meio de banco de dados interativo e dinâmico, onde leitores e doadores possam realizar um breve cadastro formando uma rede cooperativa de leitura. 
+O descarte correto de resíduos sólidos é um tema de extrema importância: em 2010 foi criada a Política Nacional de Resíduos Sólidos, visando regulamentar o descarte ecologicamente correto deste tipo de resíduo. No entanto, apenas em 2018, houve a proposta de incluir o óleo de cozinha e outros óleos de uso culinário nesta regulamentação. Este é um resíduo comum na casa dos brasileiros e que tem um grande potencial de poluição, porque um litro de óleo descartado incorretamente pode poluir cerca de 25 mil litros de água. Com a proposta de facilitar o descarte e recolhimento de óleo, o presente trabalho propõe a criação de uma aplicação que possa unir moradores que tem óleo a ser descartado com coletores que já fazem esse trabalho indo de porta em porta – o que é ineficiente e desgastante.
 
 
 site da faculdade: **[UNIVESP](https://univesp.br/)**

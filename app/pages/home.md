@@ -1,8 +1,8 @@
-<h1>Bem-vinde ao QueroLer 📚</h1>
+<h1>Bem-vinde ao Tenho Óleo!🛢️</h1>
 
-Doador 🤝 Quem quer ler
+Doador 🤝 Quem quer óleo
 
-- Doe ou busque seu livro de interesse
+- Doe ou busque sua unidade de óleo
 
 
 <button type="button" class="btn btn-primary">QueroDoar</button>
@@ -11,34 +11,34 @@ Doador 🤝 Quem quer ler
   <input type="text" placeholder="Buscar 🔎 ">
   <button type="button" class="btn btn-outline-primary">search</button>
 </div>
-<center><div class="card" style="width: 40rem;"></center>
+<!-- <center><div class="card" style="width: 40rem;"></center>
   <div class="card-header">
-    <center><h5>Livraria solidária disponível</h5></center>
+    <center><h5>Unidades de óleo disponíveis para coleta</h5></center>
   </div>
   <table class="card-table table">
     <thead>
       <tr>
-        <th scope="col"><center>Título</center></th>
-        <th scope="col"><center>Gênero</center></th>
+        <th scope="col"><center>Volume (l)</center></th>
+        <th scope="col"><center>Bairro</center></th>
         <th scope="col"><center>Doador 🔗 </center></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><center>Dom Casmurro</center></td>
-        <td><center>Romance</center></td>
+        <td><center>2</center></td>
+        <td><center>Vila Mariana</center></td>
         <td><center><a href="http://0.0.0.0:5001/signup"><span style="color:blue">Augustinho</a></center></span></td>
       </tr>
       <tr>
-        <td><center>Dom Casmurro</center></td>
-        <td><center>Romance</center></td>
+        <td><center>1.5</center></td>
+        <td><center>Vila Mariana</center></td>
         <td><center><a href="http://0.0.0.0:5001/signup"><span style="color:blue">Lineuzinho</a></center></span></td> 
       </tr>
       <tr>
-        <td><center>Dom Casmurro</center></td>
-        <td><center>Romance</center></td>
+        <td><center>1</center></td>
+        <td><center>Vila Mariana</center></td>
         <td><center><a href="http://0.0.0.0:5001/page/portfolio"><span style="color:blue">Dona Nenê</a></center></span></td>  
       </tr> 
     </tbody>
   </table>
-</div>
+</div> -->
